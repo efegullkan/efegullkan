@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **efegulkan11@gmail.com**
 
-- ⚡ Fun fact: **life is hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
