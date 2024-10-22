@@ -1,5 +1,5 @@
 ![Header](header-image.png)
-<h1 align="center">Hi 👋, I'm Yaşar Efe Gülkan</h1>
+<h1 align="center">Hi 👋, I'm Yaşar Efe</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
